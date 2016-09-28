@@ -1,0 +1,65 @@
+nav,
+ol,
+li {
+border: 1px solid #000;
+}
+
+p {
+	line-height: 1.4
+	margin: 0;
+	}
+
+
+/* HTML Reset (Normalize) */
+
+p {
+	margin-top: 0;
+	margin-bottom:0;
+}
+
+body {
+/* 	font-color: magenta; */
+}
+
+.serif {
+	font-family: fantasy, cursive, monospace, sans-serif, serif;
+}
+
+.serif {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	}
+.sans-serif {
+	font-family: Verdana, Arial, sans-serif;
+	}
+.monospace {
+	font-family: "Courier New", Courier, monospace;
+	}
+.cursive {
+	font-family: "Comic Sans MS", cursive;
+	}
+.fantasy { font-family: fantasy;
+	}
+
+.size-72px {
+	font-size: 72px;
+}
+.bold {
+	font-weight: bold;
+}
+
+p.monospace {
+	font: italic bold 36px/1
+}
+
+.italic {
+	font-style: italic
+}
+
+.small-caps {
+	font-variant: small-caps;
+}
+
+.all-caps {
+font-size: 85%;
+text-transform: uppercase;
+}
