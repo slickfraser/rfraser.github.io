@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="english">
+<head>
+	<meta charset="utf-8" />
+	<title>html-document</title>
+	<meta name="generator" content="BBEdit 11.6" />
+</head>
+<body>
+
+<style media="print">
+
+a {
+
+	color: black;
+	text-decoration: none;
+}
+
+del {
+	display: none;
+}
+
+p {
+	text-indent: 2em;
+	line-height: 2;
+	margin-bottom: 0;
+}
+
+#notes p {
+	text-indent: 0;
+	}
+
+</style>
+
+
+<!--
+http://www.zeldman.com/2016/06/05/transcription-design-become-hard/
+-->
+
+<p>
+<ins datetime="2016-09-12"> Has Web Design Become Too Hard? </ins>
+</p>
+
+<div>
+
+<section id="notes"
+
+<h2> Notes </h2>
+
+<section body {font-family: "Corsiva"; }>
+
+<p> There has been an ongoing argument that digital design has become more challenging over the years. A  lot designers complain that too many tools and settings have been implemented and it has complicated the design process. Many designers have been working to simplify the way people can interact with digital design technology. For example, designers have developed a “liquid layout” for pixel projection so the layout for any page can be compatible when displayed on screens of varying size.</p>
+
+<p> Web Designers don’t have a very broad selection when it comes to the softwares available but there is so much that can be accomplished within these softwares. Choosing between which software they would want to use depends on which one best suits the designers needs. Softwares like Sass and Bootstrap are suitable for all kinds of design styles and CSS authoring will likely remain the way it is because it works.
+</p>
+
+
+
+
+</body>
+</html>
