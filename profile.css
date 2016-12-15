@@ -1,0 +1,84 @@
+body {
+	width: 60em;
+	margin: 0 auto;
+
+}
+
+figure,
+dl {
+	margin: 0;
+
+}
+
+#figure {
+  max-width: 100%;
+}
+
+img {
+  max-width: 260px;
+	height: auto;
+	vertical-align: middle;
+
+}
+
+#sign{
+  text-align: center;}
+
+header {
+	text-align: center;
+  color: darkblue;
+	}
+
+header h1 {
+	font-family: sans-serif;
+	}
+
+#profile {
+	position: relative;
+	border: 8px solid;
+  border-color: darkblue;
+	overflow: hidden;
+}
+#artwork {
+  border-left: 8px solid;
+  border-right: 8px solid;
+  border-bottom: 8px solid;
+  border-color: darkblue;
+}
+
+#profile figure {
+	float: left;
+	width: 16em;
+	margin-right: 1em;
+}
+
+#bio dl {
+	float: left;
+	width: 16em;
+}
+
+#info {
+  border-left: 8px solid;
+  border-bottom: 8px solid;
+  border-color: darkblue;
+}
+
+#profile dt {
+	float: left;
+	margin-right: .5em;
+
+}
+
+#info {
+  font-size: 15px;
+	position: absolute;
+	top: 0; right: 0;
+}
+
+#font {
+ font-size: 20px;
+
+}
+
+
+
